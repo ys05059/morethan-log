@@ -12,16 +12,16 @@ const CONFIG = {
   },
   projects: [
     {
-      name: ``,
-//      href: "https://github.com/morethanmin/morethan-log",
-      href: "",
+      name: `my-github`,
+      href: "https://github.com/ys05059",
+//      href: "",
     },
   ],
   // blog setting (required)
   blog: {
     title: "woongyee-devlog",
     description: "welcome to woongyee-devlog!",
-    theme: "dark", // ['light', 'dark', 'auto']
+    theme: "light", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
