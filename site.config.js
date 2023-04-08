@@ -10,17 +10,17 @@ const CONFIG = {
     github: "ys05059",
     instagram: "",
   },
-  projects: [
-    {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
-    },
-  ],
+//  projects: [
+//    {
+//      name: `woongyee`,
+//      href: "https://github.com/morethanmin/morethan-log",
+//    },
+//  ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
-    theme: "light", // ['light', 'dark', 'auto']
+    title: "woongyee-devlog",
+    description: "welcome to woongyee-devlog!",
+    theme: "dark", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
