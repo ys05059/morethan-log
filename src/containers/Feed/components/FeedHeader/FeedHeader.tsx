@@ -16,5 +16,6 @@ const FeedHeader: React.FC<Props> = ({ categories }) => {
       <OrderButtons />
     </div>
   )
+}
 
 export default FeedHeader
